@@ -12,7 +12,6 @@ I’m a MERN Stack Developer from Bangladesh 🇧🇩 with a strong passion for 
 - 🌱 I’m exploring **Next.js**, **Socket.IO**, and advanced backend architecture
 - 💬 Ask me about **React**, **Firebase**, **MongoDB**, or real-time apps
 - 📚 Constantly learning and contributing to open source projects
-
 ---
 
 ## 🛠️ Languages & Tools

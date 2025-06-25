@@ -1,3 +1,5 @@
+![Banner](https://i.ibb.co/nM5HY9jk/Gemini-Generated-Image-eixom6eixom6eixo.png)
+
 # 👋 Hi, I'm **Tanmay Islam**
 
 🚀 Frontend-Focused Full Stack Developer | MERN Stack | Firebase | Tailwind

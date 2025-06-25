@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/W4WmbLYr/banner.png)
+![Banner]([https://i.ibb.co/W4WmbLYr/banner.png](https://github.com/tanmayislam2006/tanmayislam2006/blob/07dcd24e756e26d010fb679998358c5be48556d9/banner.png?raw=true))
 
 # 👋 Hi, I'm **Tanmay Islam**
 

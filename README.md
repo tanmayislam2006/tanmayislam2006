@@ -12,6 +12,7 @@ I’m a MERN Stack Developer from Bangladesh 🇧🇩 with a strong passion for 
 - 🌱 I’m exploring **Next.js**, **Socket.IO**, and advanced backend architecture
 - 💬 Ask me about **React**, **Firebase**, **MongoDB**, or real-time apps
 - 📚 Constantly learning and contributing to open source projects
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -43,11 +44,13 @@ I’m a MERN Stack Developer from Bangladesh 🇧🇩 with a strong passion for 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanmayislam2006&show_icons=true&theme=radical" alt="tanmayislam2006 stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayislam2006&theme=radical" alt="tanmayislam2006 streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmayislam2006&layout=compact&theme=radical" alt="tanmay2006 top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmayislam2006&layout=compact&theme=radical" alt="tanmayislam2006 top languages" />
 </p>
 
 ---

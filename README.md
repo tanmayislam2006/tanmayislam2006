@@ -1,6 +1,15 @@
-# Hi 👋, I'm **Tanmay Islam**
+# 👋 Hi, I'm **Tanmay Islam**
 
-> 🚀 A passionate frontend developer
+🚀 Frontend-Focused Full Stack Developer | MERN Stack | Firebase | Tailwind
+
+## 👨‍💻 About Me
+
+I’m a MERN Stack Developer from Bangladesh 🇧🇩 with a strong passion for building real-world web applications that solve meaningful problems.
+
+- 🔭 I’m currently working on a parcel delivery system called **ProShift**
+- 🌱 I’m exploring **Next.js**, **Socket.IO**, and advanced backend architecture
+- 💬 Ask me about **React**, **Firebase**, **MongoDB**, or real-time apps
+- 📚 Constantly learning and contributing to open source projects
 
 ---
 
@@ -12,15 +21,19 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ---
 
-## ✍️ Recent Posts
+## 🔗 Connect with Me
 
-- [Post Title 1](#)
-- [Post Title 2](#)
-- [Post Title 3](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/tanmayislam101)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:tanmayislam101@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&style=for-the-badge&logoColor=white)](https://yourportfolio.com)
 
 ---
 
@@ -39,3 +52,7 @@
 ---
 
 > _Let's build something amazing together!_
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks%20for%20visiting!&fontAlign=50&fontColor=ffffff&colorGradient=0,36BCF7,2a2a72" />
+</div>

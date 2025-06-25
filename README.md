@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/nM5HY9jk/Gemini-Generated-Image-eixom6eixom6eixo.png" alt="Banner" style="width:100%; border-radius:10px" />
+![Banner](https://i.ibb.co/nM5HY9jk/Gemini-Generated-Image-eixom6eixom6eixo.png)
 
 # 👋 Hi, I'm **Tanmay Islam**
 

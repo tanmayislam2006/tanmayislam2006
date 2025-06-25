@@ -40,13 +40,13 @@ I’m a MERN Stack Developer from Bangladesh 🇧🇩 with a strong passion for 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmay2006&show_icons=true&theme=radical" alt="tanmay2006 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmayislam2006&show_icons=true&theme=radical" alt="tanmayislam2006 stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2006&theme=radical" alt="tanmay2006 streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayislam2006&theme=radical" alt="tanmayislam2006 streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2006&layout=compact&theme=radical" alt="tanmay2006 top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmayislam2006&layout=compact&theme=radical" alt="tanmay2006 top languages" />
 </p>
 
 ---

@@ -35,7 +35,7 @@ I’m a MERN Stack Developer from Bangladesh 🇧🇩 with a strong passion for 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/tanmayislam101)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:tanmayislam101@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&style=for-the-badge&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&style=for-the-badge&logoColor=white)](https://tanmayislam.vercel.app)
 
 ---
 

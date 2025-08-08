@@ -1,61 +1,91 @@
 ![Banner](https://github.com/tanmayislam2006/tanmayislam2006/blob/07dcd24e756e26d010fb679998358c5be48556d9/banner.png?raw=true)
 
-# 👋 Hi, I'm **Tanmay Islam**
+#  Hi, I'm **Tanmay Islam**
 
-🚀 Frontend-Focused Full Stack Developer | MERN Stack | Firebase | Tailwind
+🚀 Frontend-Focused Full Stack Developer | MERN Stack | Firebase | Real-time Apps | Tailwind
+
+---
 
 ## 👨‍💻 About Me
 
-I’m a MERN Stack Developer from Bangladesh 🇧🇩 with a strong passion for building real-world web applications that solve meaningful problems.
+I’m a passionate web developer from **Bangladesh 🇧🇩**, focused on building practical, real-world applications using the MERN stack and modern tools.
 
-- 🔭 I’m currently working on a parcel delivery system called **ProShift**
-- 🌱 I’m exploring **Next.js**, **Socket.IO**, and advanced backend architecture
-- 💬 Ask me about **React**, **Firebase**, **MongoDB**, or real-time apps
-- 📚 Constantly learning and contributing to open source projects
+- 💼 Building a dynamic **employee worklog app**: `Employee Flow`
+- 🛒 Developing an **AI-powered eCommerce platform**: `BuyNex`
+- 📂 Creating a **job tracking system** with resume analysis: `ApplyIQ`
+- 🌐 Love working with **real-time systems**, **Socket.IO**, and **responsive design**
+- 🧠 Always learning and exploring tools like **Next.js**, and **MongoDB aggregation**
 
----
-
-## 🛠️ Languages & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+> I strive to build polished, scalable, and user-centric products that solve real problems.
 
 ---
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/tanmayislam101)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:tanmayislam101@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&style=for-the-badge&logoColor=white)](https://yourportfolio.com)
-
----
-
-## 📊 GitHub Stats
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmayislam2006&show_icons=true&theme=radical" alt="tanmayislam2006 stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,vite,tailwind,figma,git,github" />
+</p>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-FF61F6?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+</div>
+
+---
+
+## 🧩 Projects I'm Proud Of
+
+### 👨‍💼 [Employee Flow](https://github.com/tanmayislam2006/Employee-Flow.git)  
+A full-featured employee dashboard for tracking work logs and payments. Includes dynamic forms, CRUD operations, real-time updates, and secure private routes.
+
+### 💼 [ApplyIQ](https://github.com/tanmayislam2006/Apply-IQ.git)  
+Job application tracker with resume uploads, AI-powered resume analyzer, calendar scheduling, and job goal tracking.
+
+### 🛍️ [BuyNex](https://github.com/tanmayislam2006/Buy-Nex.git)  
+E-commerce platform with category filtering, AI-powered product search, real-time customer-to-seller chat, and Stripe payments.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanmayislam2006&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayislam2006&theme=radical" alt="tanmayislam2006 streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmayislam2006&show_icons=true&theme=radical" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmayislam2006&layout=compact&theme=radical" alt="tanmayislam2006 top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmayislam2006&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-> _Let's build something amazing together!_
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanmayislam101" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/tanmayislam2004" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://x.com/TanmayIsla13054" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/islamtonmoy2004/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+> _Let’s build something amazing together!_
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks%20for%20visiting!&fontAlign=50&fontColor=ffffff&colorGradient=0,36BCF7,2a2a72" />

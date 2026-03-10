@@ -23,7 +23,7 @@ I’m a passionate web developer from **Bangladesh 🇧🇩**, focused on buildi
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,vite,tailwind,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,nest,mongodb,firebase,prisma,vite,tailwind,figma,git,github,docker" />
 </p>
 
 <div align="center" style="margin-top: 20px;">

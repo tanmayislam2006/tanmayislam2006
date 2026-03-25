@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/tanmayislam2006/tanmayislam2006/refs/heads/main/github-banner.png)
+![Banner](https://raw.githubusercontent.com/tanmayislam2006/tanmayislam2006/refs/heads/main/git-hub-banner.png)
 
 # Tanmay Islam || Full Stack Developer
 

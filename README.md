@@ -1,7 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/tanmayislam2006/tanmayislam2006/refs/heads/main/git-hub-banner.png)
 
-# Tanmay Islam || Full Stack Developer
-
 ## About Me
 
 Full Stack  developer focused on building scalable and user-friendly web applications.

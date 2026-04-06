@@ -1,18 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/tanmayislam2006/tanmayislam2006/refs/heads/main/git-hub-banner.png)
 
-## About Me
-
-Full Stack  developer focused on building scalable and user-friendly web applications.
-
-I enjoy turning ideas into practical products and continuously improving my skills by building real-world systems.
-
-- Developing **BuyNex** – AI-powered eCommerce platform with smart product search
-- Building **Employee Flow** – employee worklog and payment tracking platform
-- Creating **ApplyIQ** – job application tracker with AI-assisted resume analysis
-- Interested in **backend architecture**, **real-time systems**, and **scalable APIs**
-- Currently improving skills in **Next.js**, **TypeScript**, **Prisma**, and advanced **database design**
----
-
 ## Tech Stack
 
 <p align="center">
@@ -27,19 +14,6 @@ I enjoy turning ideas into practical products and continuously improving my skil
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </div>
-
----
-
-## Project Showcase
-
-### [Employee Flow](https://github.com/tanmayislam2006/Employee-Flow)
-Full-featured employee dashboard for work logs and payment management with secure private routes, CRUD workflows, and responsive UI.
-
-### [ApplyIQ](https://github.com/tanmayislam2006/Apply-IQ)
-Job application tracker with resume upload, AI-assisted resume analysis, scheduling support, and goal tracking.
-
-### [BuyNex](https://github.com/tanmayislam2006/Buy-Nex)
-Modern eCommerce platform with AI-assisted search, category filtering, real-time customer-seller chat, and Stripe payment integration.
 
 ---
 
